@@ -1,5 +1,15 @@
-import World from './world'
+// import World from './world'
 
-const root = document.getElementById('root')
-const world = new World('Hello World!!')
-world.sayHello(root)
+// const root = document.getElementById('root')
+// const world = new World('Hello World!!')
+// world.sayHello(root)
+
+import { primitiveSample } from './basic'
+import { notExistSample } from './basic'
+import { anySample } from './basic'
+import { unknownSample } from './basic'
+
+primitiveSample()
+notExistSample()
+anySample()
+unknownSample()
