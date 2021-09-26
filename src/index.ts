@@ -27,8 +27,14 @@
 // const sum = sumProductsPrice(100, 200, 300, 400, 500, 600)
 // console.log('Function parameters Sample 5:' + sum)
 
-import objectSample from './object/object'
-objectSample()
+// import objectSample from './object/object'
+// objectSample()
 
-import typeAliasSample from './object/alias'
-typeAliasSample()
+// import typeAliasSample from './object/alias'
+// typeAliasSample()
+
+import arraySample from './array/array'
+arraySample()
+
+import tupleSample from './array/tuple'
+tupleSample()
