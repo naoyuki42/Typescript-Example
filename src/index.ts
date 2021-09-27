@@ -39,8 +39,14 @@
 // import tupleSample from './array/tuple'
 // tupleSample()
 
-import genericsBasicSample from './generics/basic'
-genericsBasicSample()
+// import genericsBasicSample from './generics/basic'
+// genericsBasicSample()
 
-import genericsAdvancedSample from './generics/advanced'
-genericsAdvancedSample()
+// import genericsAdvancedSample from './generics/advanced'
+// genericsAdvancedSample()
+
+// import callbackSample from "./asynchronous/callback";
+// callbackSample()
+
+import promiseSample from './asynchronous/promise'
+promiseSample()
